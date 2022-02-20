@@ -8,7 +8,7 @@ namespace productclass
     {
         public double Volume;
         public double FatRate;
-        public MilkClass(string name) 
+         public MilkClass(string name) : base(name)
         {
 
 
