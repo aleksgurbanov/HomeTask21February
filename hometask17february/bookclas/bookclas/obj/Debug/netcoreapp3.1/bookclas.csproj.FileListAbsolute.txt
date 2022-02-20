@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\bin\Debug\netcoreapp3.1\bookclas.exe
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\bin\Debug\netcoreapp3.1\bookclas.deps.json
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\bin\Debug\netcoreapp3.1\bookclas.runtimeconfig.json
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\bin\Debug\netcoreapp3.1\bookclas.runtimeconfig.dev.json
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\bin\Debug\netcoreapp3.1\bookclas.dll
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\bin\Debug\netcoreapp3.1\bookclas.pdb
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.AssemblyInfo.cs
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.dll
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.pdb
+C:\Users\User\Desktop\hometask17february\bookclas\bookclas\obj\Debug\netcoreapp3.1\bookclas.genruntimeconfig.cache

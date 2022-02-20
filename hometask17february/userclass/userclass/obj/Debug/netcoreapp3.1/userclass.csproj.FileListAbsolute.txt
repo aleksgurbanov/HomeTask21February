@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\hometask17february\userclass\userclass\bin\Debug\netcoreapp3.1\userclass.exe
+C:\Users\User\Desktop\hometask17february\userclass\userclass\bin\Debug\netcoreapp3.1\userclass.deps.json
+C:\Users\User\Desktop\hometask17february\userclass\userclass\bin\Debug\netcoreapp3.1\userclass.runtimeconfig.json
+C:\Users\User\Desktop\hometask17february\userclass\userclass\bin\Debug\netcoreapp3.1\userclass.runtimeconfig.dev.json
+C:\Users\User\Desktop\hometask17february\userclass\userclass\bin\Debug\netcoreapp3.1\userclass.dll
+C:\Users\User\Desktop\hometask17february\userclass\userclass\bin\Debug\netcoreapp3.1\userclass.pdb
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.AssemblyInfo.cs
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.dll
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.pdb
+C:\Users\User\Desktop\hometask17february\userclass\userclass\obj\Debug\netcoreapp3.1\userclass.genruntimeconfig.cache
